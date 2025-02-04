@@ -1,10 +1,8 @@
-from squareroot import sqrt
+from fibonacci import fibonacci
 
-print('New repo')
-
-print(sqrt(4))
 def main():
   print('New repo')
+  print(fibonacci(10))
 
 if __name__ == '__main__':
   main()
