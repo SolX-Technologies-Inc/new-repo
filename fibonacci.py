@@ -1,3 +1,5 @@
+from squareroot import sqrt
+
 def fibonacci(n):
     """
     Generate a Fibonacci sequence up to the nth number.
