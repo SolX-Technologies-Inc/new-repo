@@ -1,10 +1,9 @@
 from squareroot import sqrt
 
-print('New repo')
 
-print(sqrt(4))
 def main():
-  print('New repo')
+    print('New repo')
+    print(sqrt(4))
 
 if __name__ == '__main__':
   main()
